@@ -1,7 +1,7 @@
 import RequestHandler from "./utils/RequestHandler.js";
 
 import Track from "./structures/Track.js";
-import getTrack from "./getTrack.js";
+import getTrack from "./getTrack-data.js";
 
 /**
  * 

@@ -14,7 +14,7 @@ export { default as getPlayerLeaderboard } from "./getPlayerLeaderboard.js";
 export { default as getRace } from "./getRace.js";
 export { default as getRandom } from "./getRandom.js";
 export { default as getTrackLeaderboard } from "./getTrackLeaderboard.js";
-export { default as getTrack } from "./getTrack.js";
+export { default as getTrack } from "./getTrack-data.js";
 export { default as getUser } from "./getUser.js";
 
 export * as default from "./index.js";
